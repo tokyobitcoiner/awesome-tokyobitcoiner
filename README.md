@@ -1,6 +1,6 @@
 # awesome-tokyobitcoiner
 
-Crypto, blockchain, DeFi, fintech Tokyo listings
+_Crypto, blockchain, DeFi, fintech Tokyo listings_
 
 ## EVENTS VENUES
 
@@ -38,9 +38,11 @@ I list up ALL the events I know of [here](https://www.tokyobitcoiner.com/search/
 
 Norbert of [Tokyo Fintech](https://medium.com/tokyo-fintech/top-tokyo-crypto-meetups-7aa921c0fbc1) lists bigger events over a longer timeframe too.
 
+[Techy Tokyo](https://techytokyo.com/) lists software/tech events and also has a [jobs section](https://techytokyo.com/jobs)
+
 [Most of these are&nbsp;[Meet Up](https://www.meetup.com/find/events/?allMeetups=false&amp;keywords=tokyo&amp;radius=5&amp;userFreeform=Tokyo%2C+Japan&amp;mcId=z1023444&amp;mcName=Tokyo%2C+JP&amp;eventFilter=mysugg)&nbsp;and&nbsp;[Eventbrite](https://www.eventbrite.com/d/japan--tokyo/events/?loc=tokyo&amp;lc=1)&nbsp;and there’s also&nbsp;[Peatix](https://peatix.com/search?country=JP&amp;l.ll=35.6894875%2C139.69170639999993&amp;l.text=Tokyo%2C%20Japan&amp;p=1&amp;size=10&amp;v=3.4&amp;dr=)&nbsp;which often lists the Japanese language only events and seems to reach more local Japanese people.]
 
-Another site has some different events including the Japanese language ones that I don’t usually list, [Rising Bitcoin](http://risingbitcoin.jp/?page_id=37), but in Japanese and also [Tokyo Start Up Events](http://www.tokyostartupevents.com) (it’s in Japanese but you can toggle to English, but many of the events are in Japanese)
+Another Japanese site has some different events including the Japanese language ones that I don’t usually list, [Rising Bitcoin](http://risingbitcoin.jp/?page_id=37), and also [Tokyo Start Up Events](http://www.tokyostartupevents.com) (it’s in Japanese but you can toggle to English, but many of the events are in Japanese)
 
 ## ADVISORS / MARKETING
 
@@ -52,7 +54,7 @@ Another site has some different events including the Japanese language ones that
 
 [Dot partners](http://dot.partners)&nbsp;- slick and very active, big players, you are sure to meet Jason!
 
-[Finetiq](https://www.finetiq.io/)&nbsp;- the remit is fintech, founder&nbsp;Maurizio Raffone is often a speaker on the fintech/blockchain circuit ([profiie here with Alex of Swissborg](https://metropolisjapan.com/tokyo-blockchain-cryptocurrency/))
+[Finetiq](https://www.finetiq.io/)&nbsp;- the remit is fintech, founder&nbsp;Maurizio Raffone is often a speaker on the fintech/blockchain circuit ([profile here with Alex of Swissborg](https://metropolisjapan.com/tokyo-blockchain-cryptocurrency/))
 
 [Smart Contract](https://smartcontract.jp/ja/)&nbsp;- ETH ecosystem, blockchain/DLT advisory services related to block chain and distributed ledger technology, media business and promotion service,&nbsp;liquidity provider
 
@@ -66,11 +68,11 @@ Another site has some different events including the Japanese language ones that
 
 [FEB Inc.](https://fareastblockchain.com/)&nbsp;- Asia and CIS countries especially
 
-[Metaps Crypto Giveaway](https://metaps-crypto.com/en/)&nbsp;- just learnt of these guys
+[Metaps](https://metaps.com/en/)&nbsp;- good Asian connections
 
 [BIG](https://t.me/joinchat/HjWqSkxZJJzVYGFU1FC7hQ) (Singapore based) - Jason and Jerry organize extensive Asia roadshows.
 
-[Blockchainomics](https://www.blockchainomics.io/) (Korea based) - Alberto is active in Japan as well as Korea
+
 
 ## INTERPRETER / MODERATOR / INFLUENCERS
 
@@ -90,7 +92,7 @@ Another site has some different events including the Japanese language ones that
 
 ## LAWYER
 
-[So Saito](#mce_temp_url#) - the most famous practice dealing with blockchain and crypto
+[So Saito](http://www.so-law.jp/en/attorney-saito) - the most famous practice dealing with blockchain and crypto
 
 ## APPS &amp; TOOLS
 
@@ -110,15 +112,12 @@ Another site has some different events including the Japanese language ones that
 
 [Le Wagon](https://www.lewagon.com) - multilingual coding bootcamp since 2013
 
-🔌💻📷⌨
-
-## ELECTRONICS STORES ACCEPTING BITCOIN (implementation by bitFlyer)
+## ELECTRONICS STORES ACCEPTING BITCOIN 
+(implementation by bitFlyer)
 
 [BIC Camera](https://www.biccamera.com/bc/c/info/payment/bitcoin.jsp)&nbsp;accept bitcoin up to 100,000 yen
 
 [Yamada Labi](http://yamada-taxfree.com/en/featured-concept-labi-tokyo) Shinjuku and the Concept Labi across from Tokyo Station accept bitcoin
-
-☕🌮🍺🍸
 
 ## BARS/CLUBS ACCEPTING CRYPTO
 
@@ -129,8 +128,6 @@ Another site has some different events including the Japanese language ones that
 [Mezzo](http://mezzo.tokyo/), luxury bar and lounge, again Roppongi
 
 [The Pink Cow](http://www.thepinkcow.com)&nbsp;- the first retailer to accept bitcoin in&nbsp; 2013 and now a big BCH supporter, in Akasaka, which has quite a few hotels and good connections.
-
-[NEM Bar](https://nembar.tokyo/blog/)&nbsp;- it’s currently closed but planning to reopen
 
 [Good Heavens!](https://www.facebook.com/goodheavensbar)&nbsp;- it’s a British-style pub, with sports screening and a comedy club; the pre-party for Satoshi Vision 2018 was held there. In Shimo-kitazawa which is a pretty cool interesting place; think used/retro clothes and one-off shops, easy access from Shibuya (Inokashira line train).
 
@@ -152,7 +149,7 @@ Accommodation - [booking.com](https://www.booking.com/s/11_6/jim92365), hotel.co
 
 [Robot Cafe](http://shinjuku-robot.com/pc/index.php?lng=ja) - has a part of bitcoin history [“where Roger met Nic”](https://www.wired.com/2017/05/one-scrappy-startup-survived-early-bitcoin-wars/).
 
-[Streamer Coffee](https://streamer.coffee/location.html) - it’s my favorite coffee shop and a great place to get some work done with fast WiFi and nice industrial chic spaces; the Tokyo Garden Place expresso branch (Akasaka Mitsuke/Nagatacho) near to Yahoo! Japan offices is a relaxed space shared with a Famima upmarket convenience store.
+[Streamer Coffee](http://streamer.coffee/) - it’s my favorite coffee shop and a great place to get some work done with fast WiFi and nice industrial chic spaces; the Tokyo Garden Place expresso branch (Akasaka Mitsuke/Nagatacho) near to Yahoo! Japan offices is a relaxed space shared with a Famima upmarket convenience store.
 
 [Guzman y Gomez](http://gyg.jp/en/) - my fave Tex Mex (although it’s Australian!); Harajuku, Shibuya, Shinagawa.
 
