@@ -2,13 +2,13 @@
 
 Crypto, blockchain, DeFi, fintech Tokyo listings
 
-## Events venues
+## EVENTS VENUES
 Where to hold your meetup or mainnet launch
-## Events listing
+## EVENTS LISTINGS
 What's going on in Tokyo
-## Advisors / marketing
+## ADVISORS / MARKETING
 Market access
-## Interpreter / moderator / influencers
+## INTERPRETER / MODERATOR / INFLUENCERS
 Need help?
 ## Lawyer
 I fought the law and the law won
