@@ -1,6 +1,25 @@
 # awesome-tokyobitcoiner
 
-Crypto, blockchain, DeFi Tokyo listings
+Crypto, blockchain, DeFi, fintech Tokyo listings
+
+## Events venues
+Where to hold your meetup or mainnet launch
+## Events listing
+What's going on in Tokyo
+## Advisors / marketing
+Market access
+## Interpreter / moderator / influencers
+Need help?
+## Lawyer
+I fought the law and the law won
+## Apps & tools
+Gamification and interpretation
+## Coding schools
+## Electronics stores accepting bitcoin
+## Bars/clubs accepting bitcoin
+## Other touristy stuff
+## Other ideas
+
 ## EVENTS VENUES
 
 [Base Layer](https://en.baselayer.asia/rentalroom/)&nbsp;this company has a relatively small, intimate space near Harajuku / Meiji-jingumae&nbsp; / Kita-sando and is one of my favorites; [Ethereum Japan](https://ethereum-japan.jp) often have high quality events there, they also arrange events at, for example WeWork.
@@ -13,17 +32,17 @@ Crypto, blockchain, DeFi Tokyo listings
 
 [Forum 8](https://www.forum-8.co.jp) also in Shibuya, a bit of an old building and dingy spaces, but cheap and cheerful I guess and different capacity rooms.
 
-[Neutrino](https://www.neutrino-space.com) - interesting [OmiseGO](https://omisego.network) project for co-working at which some interesting events (e.g. [Dfinity](https://dfinity.org/)) have also been held, funky, industrial vibe.
+[Neutrino](https://www.neutrino.global/tokyo) - interesting [OmiseGO](https://omisego.network) project for co-working at which some interesting events (e.g. [Dfinity](https://dfinity.org/)) have also been held, funky, industrial vibe.
 
-[WeWork](https://www.wework.com/l/tokyo) (various Ginza 6, Meiji-jingumae) obviously upmarket venue, Ginza 6 better than Meiji-jingumae for events I think.
+[WeWork](https://www.wework.com/l/tokyo) (multiple inc. Ginza 6, Meiji-jingumae) obviously upmarket venue, Ginza 6 better than Meiji-jingumae for events I think.
 
 [Fabbit](https://fabbit.co.jp) - [TeamZ](https://www.teamz.co.jp) often use the Otemachi/Tokyo station branch for their blockchain events, stylish modern venue and co-working space.
 
-[ninetytwo13](https://tokyochapter.com)&nbsp;- I like the retro design, co-working, living and events space on the boundary of Roppongi and Akasaka.
+[ninetytwo13](https://tokyochapter.com)&nbsp;- Cool retro design, co-working, living and events space on the boundary of Roppongi and Akasaka.
 
 [Blink](https://blinkcommunity.com)&nbsp;- another co-working and events space with a developer/techie slant, in Azabu, near Roppongi.
 
-[Impact Hub](https://www.biccamera.com/bc/c/info/payment/bitcoin.jsp) in Meguro is another co-working and space rental venue, again with a techie slant. Home of Tokyo Fintech (see below).
+[Impact Hub](https://en.hubtokyo.com/) in Meguro is another co-working and space rental venue, again with a techie slant. Home of [Tokyo Fintech](https://medium.com/tokyo-fintech/top-tokyo-crypto-meetups-7aa921c0fbc1) (see below).
 
 [Bitcoin Center Japan](http://bitcoincenterjapan.org/) opened in 2017, near Hanzomon station.
 
