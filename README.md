@@ -3,24 +3,6 @@
 Crypto, blockchain, DeFi, fintech Tokyo listings
 
 ## EVENTS VENUES
-Where to hold your meetup or mainnet launch
-## EVENTS LISTINGS
-What's going on in Tokyo
-## ADVISORS / MARKETING
-Market access
-## INTERPRETER / MODERATOR / INFLUENCERS
-Need help?
-## LAWYER
-I fought the law and the law won
-## APPS &amp; TOOLS
-Gamification and interpretation
-## CODING SCHOOLS
-## ## ELECTRONICS STORES ACCEPTING BITCOIN
-## BARS/CLUBS ACCEPTING CRYPTO
-## OTHER TOURISTY STUFF
-## Other ideas
-
-## EVENTS VENUES
 
 [Base Layer](https://en.baselayer.asia/rentalroom/)&nbsp;this company has a relatively small, intimate space near Harajuku / Meiji-jingumae&nbsp; / Kita-sando and is one of my favorites; [Ethereum Japan](https://ethereum-japan.jp) often have high quality events there, they also arrange events at, for example WeWork.
 
