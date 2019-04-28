@@ -4,7 +4,7 @@ _Crypto, blockchain, DeFi, fintech Tokyo listings_
 
 ## EVENTS VENUES
 
-[Base Layer](https://en.baselayer.asia/rentalroom/)&nbsp;this company has a relatively small, intimate space near Harajuku / Meiji-jingumae&nbsp; / Kita-sando and is one of my favorites; [Ethereum Japan](https://ethereum-japan.jp) often have high quality events there, they also arrange events at, for example WeWork.
+[Base Layer](https://en.baselayer.asia/)&nbsp;this company has a relatively small, intimate space near Harajuku / Meiji-jingumae&nbsp; / Kita-sando and is one of my favorites; [Ethereum Japan](https://ethereum-japan.jp) often have high quality events there, they also arrange events at, for example WeWork.
 
 [FinGATE Kayaba](https://www.spacemarket.com/spaces/fingate)&nbsp;- it’s a fairly large space available to rent, a bit soulless and not so convenient, but with large capacity, in Kayabacho which used to be Tokyo’s financial center and where the Tokyo Stock Exchange still is.
 
