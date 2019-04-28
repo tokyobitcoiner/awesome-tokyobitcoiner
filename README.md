@@ -10,14 +10,14 @@ What's going on in Tokyo
 Market access
 ## INTERPRETER / MODERATOR / INFLUENCERS
 Need help?
-## Lawyer
+## LAWYER
 I fought the law and the law won
-## Apps & tools
+## APPS &amp; TOOLS
 Gamification and interpretation
-## Coding schools
-## Electronics stores accepting bitcoin
-## Bars/clubs accepting bitcoin
-## Other touristy stuff
+## CODING SCHOOLS
+## ## ELECTRONICS STORES ACCEPTING BITCOIN
+## BARS/CLUBS ACCEPTING CRYPTO
+## OTHER TOURISTY STUFF
 ## Other ideas
 
 ## EVENTS VENUES
