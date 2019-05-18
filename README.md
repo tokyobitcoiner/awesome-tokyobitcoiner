@@ -96,6 +96,10 @@ Another Japanese site has some different events including the Japanese language 
 
 [So Saito](http://www.so-law.jp/en/attorney-saito) - the most famous practice dealing with blockchain and crypto
 
+## TRANSLATION
+
+[Japanese Translation Blockchain Nomad](https://japanese-translation.blockchain-nomad.com/) - run by Japanese early adopter [Hakka](https://bitcointalk.org/index.php?action=profile;u=1649515), active on [BitcoinTalk](https://bitcointalk.org/index.php?action=profile;u=1649515;sa=showPosts)
+
 ## APPS &amp; TOOLS
 
 [Interactio](https://interactio.io/) is an app which broadcasts the onsite interpreter’s voice to iPhones
